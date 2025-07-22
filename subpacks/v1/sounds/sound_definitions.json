@@ -1,0 +1,234 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "ambient.crimson_forest.mood": {
+      "category": "ambient",
+      "sounds": []
+    },
+    "ambient.warped_forest.mood": {
+      "category": "ambient",
+      "sounds": []
+    },
+    "ambient.soulsand_valley.mood": {
+      "category": "ambient",
+      "sounds": []
+    },
+    "ambient.nether_wastes.mood": {
+      "category": "ambient",
+      "sounds": []
+    },
+    "ambient.basalt_deltas.mood": {
+      "category": "ambient",
+      "sounds": []
+    },
+    "music.menu": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/menu/menu1",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu2",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu3",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/menu/menu4",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "music.game": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/game/calm1",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/calm2",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/calm3",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/hal1",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/hal2",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/hal3",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/hal4",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/nuance1",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/nuance2",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/piano1",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/piano2",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/piano3",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "music.game.creative": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/game/creative/creative1",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/creative/creative2",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/creative/creative3",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/creative/creative4",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/creative/creative5",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/creative/creative6",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "music.game.end": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/game/end/end",
+          "stream": true,
+          "volume": 0.2,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "music.game.endboss": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/game/end/boss",
+          "stream": true,
+          "volume": 0.3,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "music.game.nether": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/game/nether/nether1",
+          "stream": true,
+          "volume": 0.15,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/nether/nether2",
+          "stream": true,
+          "volume": 0.15,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/nether/nether3",
+          "stream": true,
+          "volume": 0.15,
+          "load_on_low_memory": true
+        },
+        {
+          "name": "sounds/music/game/nether/nether4",
+          "stream": true,
+          "volume": 0.15,
+          "load_on_low_memory": true
+        }
+      ]
+    },
+    "music.game.credits": {
+      "category": "music",
+      "sounds": [
+        {
+          "name": "sounds/music/game/end/credits",
+          "stream": true,
+          "volume": 0.1,
+          "load_on_low_memory": true
+        }
+      ]
+    }
+  }
+}
