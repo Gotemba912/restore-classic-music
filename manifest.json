@@ -1,17 +1,17 @@
 {
   "format_version": 2,
   "header": {
-    "name": "RestoreClassic: Music v1.0.0",
-    "description": "ゲームのBGMを昔に戻します！\nby YuuhaLand",
+    "name": "RestoreClassic: Music v1.0.1",
+    "description": "ゲームのBGMを昔に戻します！\nby Yuka0745",
     "uuid": "89e727b7-2828-4ebc-963e-e9fd13bd5f8d",
-    "version": [ 1, 0, 0 ],
+    "version": [ 1, 0, 1 ],
     "min_engine_version": [ 1, 13, 0 ]
   },
   "modules": [
     {
       "type": "resources",
       "uuid": "9144ac38-1e47-4af3-a5b6-296d23a6be44",
-      "version": [ 1, 0, 0 ]
+      "version": [ 1, 0, 1 ]
     }
   ],
   "subpacks": [
@@ -40,42 +40,7 @@
     {
       "type": "label",
       "name": "text_01",
-      "text": "§l§d《§a設定の説明§d》§r"
-    },
-    {
-      "type": "label",
-      "name": "text_02",
-      "text": "§aClassic Musics§r: §bC418作のBGMだけが流れます!"
-    },
-    {
-      "type": "label",
-      "name": "text_03",
-      "text": "§4v1.16 Musics§r: §b上に加え、v1.16で追加されたBGMが流れます!"
-    },
-    {
-      "type": "label",
-      "name": "text_04",
-      "text": "§dv1.18 Musics§r: §b上に加え、v1.18で追加されたBGMが流れます!"
-    },
-    {
-      "type": "label",
-      "name": "text_05",
-      "text": "§2v1.19 Musics§r: §b上に加え、v1.19で追加されたBGMが流れます!"
-    },
-    {
-      "type": "label",
-      "name": "text_06",
-      "text": "\n§l§c【§e！§c】§rこのリソースパックにはBGMのファイルは一切入っていません！\nこのリソースパックはマイクラ内に入っているBGMをそのまま流しているだけです！"
-    },
-    {
-      "type": "label",
-      "name": "text_07",
-      "text": "\n何かあればDiscordまでお願いします。\n§adiscord.gg/7SnjrqKQeS"
-    },
-    {
-      "type": "label",
-      "name": "text_08",
-      "text": "§l§dｂｙ ＹｕｕｈａＬａｎｄ§r"
+      "text": "§l§d《§a設定の説明§d》§r\n\n§aClassic Musics§r: §bC418作のBGMだけが流れます!§r\n§4v1.16 Musics§r: §b上に加え、v1.16で追加されたBGMが流れます!§r\n§dv1.18 Musics§r: §b上に加え、v1.18で追加されたBGMが流れます!§r\n§2v1.19 Musics§r: §b上に加え、v1.19で追加されたBGMが流れます!§r\n\n§l§c【§e！§c】§rこのリソースパックにはBGMのファイルは一切入っていません！\nこのリソースパックはマイクラ内に入っているBGMをそのまま流しているだけです！§r\n\n何かあればDiscordまでお願いします。\n§adiscord.gg/7SnjrqKQeS§r\n\n§l§dｂｙ Ｙｕｋａ０７４５§r"
     }
   ]
 }
